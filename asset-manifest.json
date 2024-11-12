@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flipkard-shopping-app-clone/static/css/main.f4a3020e.css",
+    "main.js": "/flipkard-shopping-app-clone/static/js/main.88ae606b.js",
+    "static/js/787.c731040c.chunk.js": "/flipkard-shopping-app-clone/static/js/787.c731040c.chunk.js",
+    "index.html": "/flipkard-shopping-app-clone/index.html",
+    "main.f4a3020e.css.map": "/flipkard-shopping-app-clone/static/css/main.f4a3020e.css.map",
+    "main.88ae606b.js.map": "/flipkard-shopping-app-clone/static/js/main.88ae606b.js.map",
+    "787.c731040c.chunk.js.map": "/flipkard-shopping-app-clone/static/js/787.c731040c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4a3020e.css",
+    "static/js/main.88ae606b.js"
+  ]
+}
